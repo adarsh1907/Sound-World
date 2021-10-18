@@ -1,0 +1,83 @@
+body{
+    text-align: center;
+    background-color: #283149;
+}
+
+h1{
+    font-size: 5rem;
+    color: #dbedf3;
+    font-family: "Arvo",cursive;
+    text-shadow: 3px 0 #da0463;
+}
+
+footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+}
+
+.set{
+    margin: 5% auto;
+}
+
+.pressed{
+    box-shadow: 0 3px 4px 0 #dbedf3;
+    opacity: 0.5;
+}
+
+.animal{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 1rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
+
+.c{
+    background-image: url("./img/cat.jpg");
+    background-position: center;
+}
+
+.d{
+    background-image: url("./img/dog.jpg");
+    background-position: center;
+}
+
+.e{
+    background-image: url("./img/elephant.jpg");
+    background-position: center;
+}
+
+.f{
+    background-image: url("./img/frog.jpg");
+    background-position: center;
+}
+
+.g{
+    background-image: url("./img/goat.jpg");
+    background-position: center;
+}
+
+.h{
+    background-image: url("./img/horse.jpg");
+    background-position: center;
+}
+
+.l{
+    background-image: url("./img/lion.jpg");
+    background-position: center;
+}
+
+.p{
+    background-image: url("./img/parrot.jpg");
+    background-position: center;
+}
